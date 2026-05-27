@@ -1,0 +1,106 @@
+ZEL — Thalanor Etik Lisansı (Zaman-Emek Lisansı)
+Sürüm 1.0 | thalanor.io
+
+Copyright (c) Thalanor Digital Civilization & Katkı Sağlayanlar
+
+───────────────────────────────────────────────────────────────────────────────
+ÖNSÖZ
+───────────────────────────────────────────────────────────────────────────────
+
+Bu lisans, –0++ Etik Çerçevesi üzerine inşa edilmiştir. –0++ şunu savunur:
+İnsan onuru, bir özellik (feature) değil; sistemin teknik kısıtıdır (constraint).
+Zaman ve emek, dijital medeniyet içindeki en geri döndürülemez kaynaklardır.
+
+ZEL lisansı; sömürüsüz, liyakat odaklı ve biyolojik zaman döngüsüne saygılı
+bir açık kaynak gelecek inşa etmek için tasarlanmıştır. Thalanor ekosistemi
+içindeki tüm ürünler bu lisansı miras alır; üçüncü taraf kullanımlar ise
+aşağıdaki koşullara uymak zorundadır.
+
+───────────────────────────────────────────────────────────────────────────────
+BÖLÜM 1 — İZİNLER
+───────────────────────────────────────────────────────────────────────────────
+
+Bu lisans kapsamında aşağıdaki eylemler serbesttir:
+
+1.1  KULLANMA: Bu yazılımı kişisel, eğitimsel ve ticari amaçlarla kullanma.
+1.2  KOPYALAMA: Yazılımın kopyalarını edinme ve dağıtma.
+1.3  DEĞİŞTİRME: Yazılımı çatallama (fork), değiştirme ve türev eserler üretme.
+1.4  DAĞITMA: Değiştirilmiş veya değiştirilmemiş sürümleri kamuoyu ile paylaşma.
+1.5  ENTEGRASYON: Bu yazılımı daha büyük sistemlerin parçası olarak kullanma.
+
+Ticari kullanım dahil tüm izinler, BÖLÜM 2 koşullarına tam uyum sağlandığı
+sürece geçerlidir.
+
+───────────────────────────────────────────────────────────────────────────────
+BÖLÜM 2 — KOŞULLAR (–0++ Uyumu)
+───────────────────────────────────────────────────────────────────────────────
+
+Bu yazılımı kullanan, değiştiren veya dağıtan her birey ve kurulus şu
+koşulları kabul etmiş sayılır:
+
+2.1  ATIF (Attribution)
+     Tüm kopyalarda ve türev eserlerde bu lisans metnine ve
+     "Thalanor Digital Civilization — thalanor.io" ibaresine yer verilir.
+
+2.2  PAYLAŞIM (Share-Alike / –0++ Copyleft)
+     Bu yazılımı temel alan türev eserler, ZEL lisansının aynı sürümü veya
+     Thalanor tarafından yayımlanan daha yeni bir sürümü altında dağıtılır.
+     Tescilli (proprietary) kapalı kaynak türevler oluşturulamaz.
+
+2.3  ŞEFFAFLIK (Transparency)
+     Değişiklikler commit geçmişinde veya bir CHANGES dosyasında açıkça
+     belgelenir. Kaynak gizlenemez; derleme betikleri de dahil olmak üzere
+     kaynak kodun tamamı kamuya açık tutulur.
+
+2.4  HAK EDİŞ KAYDI (Provenance Log)
+     Thalanor akıllı sözleşmeleri ile entegre edilmiş dağıtımlarda,
+     katkı sağlayan her geliştiricinin cüzdan adresi ve katkı ağırlığı
+     değiştirilemez biçimde zincir üzerinde kayıt altına alınır.
+
+───────────────────────────────────────────────────────────────────────────────
+BÖLÜM 3 — YASAKLAR (–0++ İhlal Sınırları)
+───────────────────────────────────────────────────────────────────────────────
+
+Aşağıdaki kullanımlar ZEL kapsamında açıkça yasaktır ve lisansı geçersiz kılar:
+
+3.1  SÖMÜRÜ ARAÇLARI: Bu yazılımın, insanları manipüle etmek, aldatmak veya
+     bilinçsiz veri toplamak için kullanılması. (Reklam profilleme, dark
+     pattern tasarımlar, gözetim sistemleri dahil.)
+
+3.2  İNSAN ONARISINI ZEDELEME: –0++ çerçevesinin tanımladığı biçimiyle insan
+     onurunu, özgürlüğünü veya liyakat ilkesini ihlal eden sistemlerde
+     kullanım.
+
+3.3  EKOSİSTEM ZEHİRLEME: Sisteme bilerek arka kapı (backdoor), exploit veya
+     ekonomik dengeleri bozacak manipülatif modüller entegre etme girişimi.
+
+3.4  KİMLİK SOYMA: ZKP yaş doğrulama katmanını, kullanıcıların gerçek
+     kimliğini ifşa edecek biçimde devre dışı bırakma veya bypass etme.
+
+3.5  KATMAN SAHTECİLİĞİ: Biyolojik zaman kilidini (age-lock mekanizmasını)
+     sahte kimlik, oracle manipülasyonu veya akıllı sözleşme açıklarıyla
+     aşmaya çalışma.
+
+───────────────────────────────────────────────────────────────────────────────
+BÖLÜM 4 — HUKUKİ SINIRLILIK
+───────────────────────────────────────────────────────────────────────────────
+
+BU YAZILIM "OLDUĞU GİBİ" (AS-IS) SUNULMAKTADIR. AÇIK VEYA ZIMNİ HİÇBİR
+GARANTİ VERİLMEMEKTEDİR. HERHANGİ BİR DOĞRUDAN, DOLAYLI, ÖZEL VEYA SONUÇSAL
+ZARARDAN THALANOR VEYA KATKI SAĞLAYANLARI SORUMLU TUTULAMAZ.
+
+───────────────────────────────────────────────────────────────────────────────
+BÖLÜM 5 — LİSANS GELİŞİMİ
+───────────────────────────────────────────────────────────────────────────────
+
+Thalanor Çekirdek Senatosu (–0++ yönetişim katmanı) bu lisansın yeni
+sürümlerini yayımlayabilir. Yeni sürümler, önceki sürümlerle geriye dönük
+uyumlu olmak zorundadır. Hangi sürüm altında dağıtım yapılacağı katkı
+sahibinin tercihindedir; ancak mevcut katkılara uygulanan sürüm sabittir.
+
+───────────────────────────────────────────────────────────────────────────────
+
+"Zamanın bir sahibi yoktur; ama emeğin her zaman bir adı vardır."
+                                                    — Thalanor –0++ Manifestosu
+
+thalanor.io | github.com/thalanor
